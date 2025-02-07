@@ -40,7 +40,7 @@ pip install -r requirements.txt
 python linear_regression.py
 
 ```
-#Screenshots:
+# Screenshots:
 ![coleration results](https://github.com/user-attachments/assets/a4fb83f1-3a51-4ec4-9fa6-e2583d9dddc4)
 ![distribution of medical charges](https://github.com/user-attachments/assets/b317fb21-9f59-486d-81c7-a81c6222b977)
 ![Correlation Heatmap](https://github.com/user-attachments/assets/08db57fe-0ad0-40af-ab94-df8bb2a5f162)
